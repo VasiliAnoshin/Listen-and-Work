@@ -4,7 +4,8 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 
 | Name | Artist | Type | Link |
 |---|---|---|---|
-| Facebook Paper Team | ATB | Song | [Spotify](https://open.spotify.com/user/tinamirtha/playlist/23V4rpgCol877ODbu0Z3Mz?si=ohxZ1I3pTPCLI-1EBS0EEA) |
-| Kontor Sunset Chill | Various | Playlist | [Spotify](https://open.spotify.com/user/1124518175/playlist/3D3jROkbtVUzRdWwH7Khnw) |
-| Radio Retaliation | Thievery Corporation | Album | [Spotify](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) |
-| The Cosmic Game | Thievery Corporation | Album | [Spotify](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) |
+| Facebook Paper Team | ATB | Playlist | [Spotify](https://open.spotify.com/user/tinamirtha/playlist/23V4rpgCol877ODbu0Z3Mz?si=ohxZ1I3pTPCLI-1EBS0EEA) |
+| PINTEREST team | Various | Playlist |[Spotify](https://open.spotify.com/user/tinamirtha/playlist/4i2q9eyqv7cBkKm6ZynPDl?si=wcklVX4TRKaQZ7nOZJwOaw) |
+| SNAPCHAT TEAM | Various | Playlist | [Spotify](https://open.spotify.com/user/tinamirtha/playlist/4I34Yxs0xrWPiS44zub8Tp?si=KHkoL5o4RlyU1dApGHkK2g) |
+| AIRBNB Team | Various | Playlist | [Spotify](https://open.spotify.com/user/tinamirtha/playlist/0IRy5wz71cPjwVbGp5W5jd?si=RccU-ZBJSCKZ9646nTpzkA) |
+| SPOTIFY TEAM | Various | Playlist | [Spotify](https://open.spotify.com/user/andreas.blixt/playlist/1itC2kKqIqun8OU05J5G8v?si=_b51V7bFSeGNOJzQXTAryg) |
