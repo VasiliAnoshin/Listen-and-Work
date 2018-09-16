@@ -4,7 +4,7 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 - [For developers](#WhileCoding)
 </br> 
 
-## WhileCoding
+### WhileCoding
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Facebook Paper Team | Various | Playlist | [Spotify](https://open.spotify.com/user/tinamirtha/playlist/23V4rpgCol877ODbu0Z3Mz?si=ohxZ1I3pTPCLI-1EBS0EEA) |
