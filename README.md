@@ -19,3 +19,4 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 | Developer | Git | Type | Link |
 |---|---|---|---|
 | Jason Miller| [developit](https://github.com/developit) | Playlist | [Spotify](https://open.spotify.com/user/tinamirtha/playlist/23V4rpgCol877ODbu0Z3Mz?si=ohxZ1I3pTPCLI-1EBS0EEA) |
+| Johan Brook| [johanbrook](https://github.com/johanbrook) | Playlist | [Spotify](https://open.spotify.com/playlist/2mtlhuFVOFMn6Ho3JmrLc2) |
