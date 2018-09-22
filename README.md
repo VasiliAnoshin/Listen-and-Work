@@ -39,3 +39,4 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 |---|---|---|---|
 | Instrumental + Movies| Various | Playlist | [Spotify](https://open.spotify.com/playlist/4MJtEnx1tVZnUUjehBeFCD) |
 | Epic Medieval Times| Various | Playlist | [Spotify](https://open.spotify.com/playlist/2OnwJy4WSqHWm2DzHCMTPM) |
+| Epic Games| Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8GjsySWIS1x) |
