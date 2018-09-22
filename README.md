@@ -4,7 +4,8 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 - [For developers](#WhileCoding)
 - [From developers](#PlFromDevelopers)
 - [Rock\Metal](#Rock_MEtal)
-</br> 
+- [Movies\Games\Fantastic](#Movies)
+</br>
 
 ### WhileCoding
 | Name | Artist | Type | Link |
@@ -31,3 +32,6 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Gothic Metal| Various | Playlist | [Spotify](https://open.spotify.com/playlist/6RMG4rR6ugwngWRhkC0inl) |
+
+### Movies
+| Instrumental + Movies| Various | Playlist | [Spotify](https://open.spotify.com/playlist/4MJtEnx1tVZnUUjehBeFCD) |
