@@ -32,6 +32,7 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Gothic Metal| Various | Playlist | [Spotify](https://open.spotify.com/playlist/6RMG4rR6ugwngWRhkC0inl) |
+| Hard Rock Paradise| Various | Playlist | [Spotify](https://open.spotify.com/playlist/2pey54kgbf3t64samW2Fw6) |
 
 ### Movies
 | Name | Artist | Type | Link |
