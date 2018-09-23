@@ -1,15 +1,16 @@
 # Listen-and-Work
 For developers, a good soundtrack can be as crucial to productivity as Red Bull or coffee. List of soundtracks that help increase your productivity.
 
-## Index
+## Navigator
 
-- [For developers](#WhileCoding)
-- [From developers](#PlFromDevelopers)
-- [Rock\Metal](#Rock_MEtal)
-- [Movies\Games\Fantastic](#Movies)
+- [For developers](#whilecoding)
+- [From developers](#plfromdevelopers)
+- [Rock\Metal](#rock_metal)
+- [Movies\Games\Fantastic](#movies)
 
 
 ### WhileCoding
+
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Facebook Paper Team | Various | Playlist | [Spotify](https://open.spotify.com/user/tinamirtha/playlist/23V4rpgCol877ODbu0Z3Mz?si=ohxZ1I3pTPCLI-1EBS0EEA) |
