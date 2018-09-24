@@ -63,4 +63,6 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 |---|---|---|---|
 | Background Happy Energetic | Various | Album | [YouTube](https://www.youtube.com/watch?v=Tmtfhud4cUE) |
 | Classic | Various | Album | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWZIOAPKUdaKS) |
+| Nature Noice | Various | Album | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWUKPeBypcpcP) |
+
 
