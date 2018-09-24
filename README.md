@@ -7,6 +7,7 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 - [From developers](#plfromdevelopers)
 - [Rock\Metal](#rock_metal)
 - [Movies\Games\Fantastic](#movies)
+- [Space/Ambient](#spaceambient)
 
 
 ### WhileCoding
@@ -43,3 +44,15 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 | Instrumental + Movies| Various | Playlist | [Spotify](https://open.spotify.com/playlist/4MJtEnx1tVZnUUjehBeFCD) |
 | Epic Medieval Times| Various | Playlist | [Spotify](https://open.spotify.com/playlist/2OnwJy4WSqHWm2DzHCMTPM) |
 | Epic Games| Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8GjsySWIS1x) |
+
+### Space/Ambient
+
+| Name | Artist | Type | Link |
+|---|---|---|---|
+| Half Age EP | Weval | Album | [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
+| Light Years | Stellardrone | Album | [Spotify](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
+| Movements | Solar Fields | Album | [Spotify](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
+| No Man's Sky OST | 65daysofstatic | Soundtrack | [Spotify](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
+| Spiral Revelation | Steve Roach | Album | [Spotify](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6) |
+| Synthwave from Space | Various | Playlist | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
+| X3 OST | Alexei Zakharov | Soundtrack | [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
