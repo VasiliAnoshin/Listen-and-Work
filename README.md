@@ -8,6 +8,7 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 - [Rock\Metal](#rock_metal)
 - [Movies\Games\Fantastic](#movies)
 - [Space/Ambient](#spaceambient)
+- [Focus](#focus)
 
 
 ### WhileCoding
@@ -56,3 +57,8 @@ For developers, a good soundtrack can be as crucial to productivity as Red Bull 
 | Spiral Revelation | Steve Roach | Album | [Spotify](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6) |
 | Synthwave from Space | Various | Playlist | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
+
+### Focus
+| Name | Artist | Type | Link |
+|---|---|---|---|
+| Background Happy Energetic | Various | Album | [YouTube](https://www.youtube.com/watch?v=Tmtfhud4cUE) |
